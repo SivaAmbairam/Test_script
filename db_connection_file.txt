@@ -1,0 +1,3 @@
+user-name: svc_webscrape
+password: A9wCQKVPNLzm!d$AC$fY
+schema: FlinnWebPriceDW
